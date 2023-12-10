@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["day_1b_solution","main"]};
