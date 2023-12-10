@@ -1,0 +1,1 @@
+/Users/cryptojedi/Desktop/AdventOfCode2023/day02a/target/debug/day02a: /Users/cryptojedi/Desktop/AdventOfCode2023/day02a/day2a_input.txt /Users/cryptojedi/Desktop/AdventOfCode2023/day02a/src/lib.rs /Users/cryptojedi/Desktop/AdventOfCode2023/day02a/src/main.rs
